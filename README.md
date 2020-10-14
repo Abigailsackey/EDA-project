@@ -1,2 +1,4 @@
-# EDA-project
+EDA-project
 Exploratory data analysis performed on Chocolate bar ratings data set
+
+	One of the world’s most popular chocolate candies, continues to be among the most consumed commodities in the United States. However, every bar of chocolate comes with its own unique flavor, texture, taste among others and these factors play a major role on how the various chocolate types and brands are rated. The dataset reviewed and used in the rating spans a period between 2006 and 2017. The dataset contains expert ratings of over 1700 chocolate bars along with other vital information. The data was subsequently analyzed and modelled with visual representations which concluded with the following findings.  It was observed that United states of America was the most favored location for chocolate producing companies in the world. It was also observed that companies in Sao Tome use the highest average amount of cocoa beans in producing chocolate worldwide. Chile had the highest average ratings of chocolate quality of 4.0. The highest average annual rating for chocolate however occurred in 2017, while the lowest occurred in 2008.
